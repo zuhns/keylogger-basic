@@ -11,4 +11,4 @@ Per questioni etiche e legali, il programma chiederà l'autorizzazione prima di 
 Il programma è ancora molto basico. Per identificare i tasti premuti, utilizza la memoria del tasto e lo associa a un carattere ASCII. Per questo motivo, molte informazioni potrebbero sembrare imprecise o non coerenti con il tasto effettivamente premuto.
 
 ### Versione
-**Versione** V-0.1
+**Ultima versione** V-0.1
