@@ -1,16 +1,14 @@
-# keylogger-basic
-Keylogger basico, ancora in fase di sviluppo!
+# Keylogger Basic
+Un semplice keylogger ancora in fase di sviluppo!
 
 ## Come funziona?
-Utilizza librerie come *windows.h* e *fstream*.
-L'obbiettivo è quello di registarare ogni tasto premuto dall'utente e salvarlo all'interno di un comune documento di testo.
+Il keylogger utilizza librerie come windows.h e fstream. L'obiettivo è registrare ogni tasto premuto dall'utente e salvarlo all'interno di un normale documento di testo.
 
 ## Privacy
-Per questioni etiche e legali il programma chiederà l'autorizzazione a procedere alla registrazione dei tasti. 
-Una volta acconsentito il programma salverà e mostrerà ogni tasto premuto fino alla chiusura del programma '''ESC'''
+Per questioni etiche e legali, il programma chiederà l'autorizzazione prima di procedere alla registrazione dei tasti. Una volta ottenuto il consenso, il programma salverà e mostrerà ogni tasto premuto fino alla chiusura del programma con il tasto '''ESC'''.
 
 ## Difetti
-Il programma è ancora molto basico, per capire quali tasti sono stati premuti utilizza la memoria del tasto premuto e l'associa ad un carattere ASCII per questo molte informazioni possono sembrare non precisi o coerenti al tasto premuto
+Il programma è ancora molto basico. Per identificare i tasti premuti, utilizza la memoria del tasto e lo associa a un carattere ASCII. Per questo motivo, molte informazioni potrebbero sembrare imprecise o non coerenti con il tasto effettivamente premuto.
 
-### Verisone
+### Versione
 **Versione** V-0.1
